@@ -1,0 +1,2 @@
+The folder for diagram and video is created separately into this file.
+My project is using 4 pillars of OOP as it was ordered,as well a UML diagram and a video
